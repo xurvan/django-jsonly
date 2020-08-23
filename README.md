@@ -1,1 +1,1 @@
-# django-jsonly
+# Django Jsonly
